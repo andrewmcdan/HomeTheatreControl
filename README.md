@@ -1,1 +1,0 @@
-This is part of my home automation project. I plan on using a Raspberry Pi to control my home theatre setup over a web interface.
